@@ -1,0 +1,7 @@
+compiled/*
+.DS_Store
+*~
+\#*#
+javascripts/
+.ruby-version
+_site
