@@ -79,7 +79,7 @@ $(document).ready(function(){
     submitHandler: function(form) {
       $.ajax({
         type: "POST",
-        url: "//forms.brace.io/resume@danmidwood.com",
+        url: "//formspree.io/resume@danmidwood.com",
         data: {
           "name": $("#contactForm #name").val(),
           "email": $("#contactForm #email").val(),
